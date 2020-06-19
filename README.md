@@ -2,6 +2,7 @@
 
 Following the django getting started tutorial
 
+I am ready for part 4 now. 
 
 ## Commands
 
